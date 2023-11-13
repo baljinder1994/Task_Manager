@@ -1,0 +1,23 @@
+#add{
+    background-color: crimson;
+    border-radius: 10px;
+    padding: 10px;
+    color:white
+}
+input{
+    border: 2px solid;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+h1{
+    text-align: center;
+    color:green;
+    background-color: darkorange;
+    font-size: 7vh;
+}
+ul{
+    background-color: aqua;
+}
+#delete{
+    color:red
+}
